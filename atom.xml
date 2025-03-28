@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://LingDeL.github.io</id>
+    <id>https://lingdel.github.io</id>
     <title>水色の夜明け</title>
     <subtitle>あなたたちの信念も尊ぶべきものよ、そのまま前に進んで、私も一緒に行くわ。</subtitle>
     <icon>https://lingdel.github.io/assets/favicon.ico</icon>
-    <link href="https://LingDeL.github.io" />
+    <link href="https://lingdel.github.io" />
     <author>
       <name>穗</name>
     </author>
